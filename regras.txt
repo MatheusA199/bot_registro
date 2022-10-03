@@ -1,0 +1,5 @@
+ 1- Configurou a definição de tela para 1280 x 1024.
+2- Colocar o icone do chrome em primeiro na barra de tarefas.
+3- Deixar a aba de abrir e fechar chamados, nesta ordem, do service now.
+4- Configurou a regras do service sinal para exibir apenas os chamados abertos que por você.
+5 - No documento casos.txt, escreveu no padrão correto: "nome colaborador - nome cliente - descrição".
